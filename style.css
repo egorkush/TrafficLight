@@ -1,0 +1,26 @@
+button {
+    margin: 30px auto;
+    display: block;
+}
+
+.traffic-light {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.traffic-light-red {
+    background: red;
+}
+
+.traffic-light-yellow {
+    background: yellow;
+}
+
+.traffic-light-green {
+    background: green;
+}
+
